@@ -119,4 +119,5 @@ This project demonstrates the process of performing penetration testing on a vul
 **Note:** This README is intended for educational purposes only. Always obtain proper authorization before performing any penetration testing on a network or system that you do not own.
 
 ## License
-This project is licensed under the MIT License[LICENSE]. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
